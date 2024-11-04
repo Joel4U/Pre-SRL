@@ -38,7 +38,7 @@ LSTM(1)-Transformers(1)
 
 | Models  | P. | R. | F1 |
 | ------------- | ------------- |------------- |------------- |
-| BiLSTM-Span + ELMo + Ensemble |  88.5    |  85.5    | 87.0
+| BiLSTM-Span + ELMo + Ensemble |  86.73    |  87.89    | 87.31
 | Pre-SRL + RoBERTa Base | 86.51  |  87.54  | 87.02
 | SRL-MM + XLNet Large | -  |  -  |  87.67
 | CRF2o + RoBERTa Large  | 88.11  | 88.53 |  88.32
